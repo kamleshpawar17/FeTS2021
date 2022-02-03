@@ -1,5 +1,3 @@
-import sys
-sys.path.append('../../common/downloaded/segmentationPytorch/')
 from models import EncoderDecoderModule, EncoderDecoderModuleFPN, EncoderDecoderModuleUnetPP
 import numpy as np
 import glob
