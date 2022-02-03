@@ -1,1 +1,1 @@
-# Federated Tumor Segmentation Challenge 2021 - Task-2 2nd rank Solution
+# Federated Tumor Segmentation Challenge 2021 (task-2 2nd place solution)
