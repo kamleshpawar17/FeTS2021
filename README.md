@@ -21,3 +21,9 @@ sh train.sh
 ````
 inference.py
 ````
+
+## Paper:
+Pawar, K., Zhong, S., Chen, Z., Egan, G. (2022). Brain Tumor Segmentation Using Two-Stage Convolutional Neural Network for Federated Evaluation. In: Crimi, A., Bakas, S. (eds) Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries. BrainLes 2021. Lecture Notes in Computer Science, vol 12963. Springer, Cham. https://doi.org/10.1007/978-3-031-09002-8_43
+
+https://link.springer.com/chapter/10.1007/978-3-031-09002-8_43
+
