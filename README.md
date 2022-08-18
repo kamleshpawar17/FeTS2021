@@ -6,6 +6,11 @@ clone the repository and run the setup.sh file
 sh setup.sh
 ````
 
+## Data Prepration
+```
+generate_numpy_data.py
+```
+
 ## Training
 ````
 cd ./trainingScripts
@@ -14,5 +19,5 @@ sh train.sh
 
 ## Inference
 ````
-python3 inference.py
+inference.py
 ````
