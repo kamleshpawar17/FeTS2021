@@ -7,7 +7,7 @@ sh setup.sh
 ````
 
 ## Data Prepration for training only
-set the ```src_path``` to the nifiti images and ```dst_path``` to ouput dir for .npy data
+set the ```src_path``` to the nifiti images and ```dst_path``` to output dir for .npy data
 ```
 generate_numpy_data.py --src_path=./data/nifti/train/*/*seg.nii.gz --dst_path=./data/np/train/
 ```
