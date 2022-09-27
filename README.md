@@ -6,7 +6,7 @@ clone the repository and run the setup.sh file
 sh setup.sh
 ````
 
-## Data Prepration
+## Data Prepration for training only
 ```
 generate_numpy_data.py
 ```
